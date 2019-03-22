@@ -4,9 +4,9 @@ Name:		Coin.py
 Purpose:
 Simulates a coin flip
 
-Author:		Leung.G
+Author:		Fabroa.E
 
-Created:		26/11/2018
+Created:		22/03/2019
 ------------------------------------------------------------------------------
 """
 
